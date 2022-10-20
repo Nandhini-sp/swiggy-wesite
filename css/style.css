@@ -1,0 +1,9 @@
+ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: #93959F;
+    font-weight: bold;
+}
+ul li a:hover{
+    color: #93959F;
+}
